@@ -25,13 +25,14 @@ You require the below to get up and running
 - Install Django
 - Using Git and GitHub to manage source code
 - Hello World!
-- Developing the application
-    - Connecting to a router
-    - Getting output from a router
-    - Creating a GUI
+
+## Part 3 - Developing the application
+- Connecting to a router
+- Getting output from a router
+- Creating a GUI
 - Conclusions
 
-## Part 3 - Using Docker to run your application
+## Part 4 - Using Docker to run your application
 - Docker and Dockerfiles
 - Build the Docker image
 - Running the application
