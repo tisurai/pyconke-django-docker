@@ -34,4 +34,5 @@ You require the below to get up and running
 ## Part 3 - Using Docker to run your application
 - Docker and Dockerfiles
 - Build the Docker image
-- Running the application 
+- Running the application
+- Conclusions 
