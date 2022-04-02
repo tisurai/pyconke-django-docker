@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.6.2-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.2-brightgreen.svg)](https://djangoproject.com)
 
-A tutorial about how to develop and deploy Django applications for network automation using Python, Django and Docker
+A tutorial about how to develop and deploy Django applications for network automation using Python, Django and Docker. 
 
 This tutorial is in three parts:
 * Part 1 - Setup a virtual network topology using [EVE-NG](https://eve-ng.net)
@@ -21,5 +21,14 @@ You require the below to get up and running
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Part 2 - Setting up Python and Django
+- Install Python3
+- Create a virtual environment
+- Install Django
+- Using Git and GitHub to manage source code
+- Hello World!
+- Developing the application
 
-## Part 3 - How to create a Docker image for your application
+## Part 3 - Using Docker to run your application
+- Docker and Dockerfiles
+- Build the Docker image
+- Running the application 
