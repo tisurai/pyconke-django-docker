@@ -24,9 +24,11 @@ You require the below to get up and running
 - Create a virtual environment
 - Install Django
 - Using Git and GitHub to manage source code
-- Hello World!
+- Running the development server
+- Conclusions
 
 ## Part 3 - Developing the application
+- Configure our app
 - Connecting to a router
 - Getting output from a router
 - Creating a GUI
